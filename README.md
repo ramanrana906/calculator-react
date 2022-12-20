@@ -1,3 +1,9 @@
+
+Calculator react app created via using Mathjs library where the evaluate function helps us to evaluate the expression and give the result
+
+Hosted link -https://calculator-react-r5u4x2ae7-ramanrana906.vercel.app/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
